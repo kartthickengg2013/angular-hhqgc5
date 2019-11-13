@@ -14,7 +14,6 @@ import { HeroDetailComponent }  from './hero-detail/hero-detail.component';
 import { HeroesComponent }      from './heroes/heroes.component';
 import { HeroSearchComponent }  from './hero-search/hero-search.component';
 import { MessagesComponent }    from './messages/messages.component';
-import { TestComponent } from './test/test.component';
 import { LoginComponent } from './login/login.component';
 
 @NgModule({
@@ -38,7 +37,6 @@ import { LoginComponent } from './login/login.component';
     HeroDetailComponent,
     MessagesComponent,
     HeroSearchComponent,
-    TestComponent,
     LoginComponent
   ],
   bootstrap: [ AppComponent ]

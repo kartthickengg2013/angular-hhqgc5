@@ -3,6 +3,7 @@
   float: left;
   padding-right: 20px;
   padding-bottom: 20px;
+  test;
 }
 [class*='col-']:last-of-type {
   padding-right: 0;
